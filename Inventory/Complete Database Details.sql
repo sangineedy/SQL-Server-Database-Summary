@@ -1,5 +1,6 @@
 /*******************************************************************************************
 Author: L.S.N. Sandeep Kumar. Sangineedy
+email: sangineedy@gmail.com
 Purpose: Provide Individual SQL Server database information
 Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2016, 2017, 2019 & 2022
 
