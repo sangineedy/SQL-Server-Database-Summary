@@ -1,8 +1,8 @@
 /********************************************************************************************
-Author: Sandeep Kumar.Sangineedy
+Author: L. S. N. Sandeep Kumar. Sangineedy
 email: sangineedy@gmail.com
 Purpose: Provide last Backup information (Full, Differential, Log, File Group, Differential_File, Partial, Differential File)
-Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2014, 2016 & 2017
+Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2014, 2016, 2017, 2019 & 2022
 
 Usage: 
 1. Open SQL Server Management Studio (SSMS) and connect to SQL Server.
