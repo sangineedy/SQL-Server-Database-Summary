@@ -1,8 +1,8 @@
 /******************************************************************************************** 
 Author: L. S. N. Sandeep Kumar.Sangineedy
-email: sangineedy@gmail.com
+email: sandeepkumar4data@gmail.com
 Purpose: Analyze SQL DB Log file(s), Virtual Log files & Size information for all online SQL Databases
-Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2014 & 2016 
+Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2014, 2016, 2017, 2019 & 2022
  
 Usage:  
 1. Open SQL Server Management Studio (SSMS) and connect to SQL Server. 
