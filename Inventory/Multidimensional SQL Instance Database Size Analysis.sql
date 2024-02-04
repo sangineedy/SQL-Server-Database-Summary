@@ -1,6 +1,6 @@
 /*
 Author : L. S. N. Sandeep Kumar.Sangineedy
-Email: sangineedy@gmail.com
+Email: sandeepkumar4data@gmail.com
 
 Title: Multidimensional SQL Instance Database Size Analysis
 Abstract : Summarized analysis of all ONLINE Database capacity that are hosted on SQL Server Instance
