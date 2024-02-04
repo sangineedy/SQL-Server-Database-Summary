@@ -1,6 +1,6 @@
 /********************************************************************************************
 Author: L.S.N. Sandeep Kumar. Sangineedy
-email:sangineedy@gmail.com
+email: sandeepkumar4data@gmail.com
 Purpose: Get Consolidated SQL DB Backup (Full, Differential, Log, File Group, Differential_File, Partial, Differential File) information
 Compatible & Tested SQL Versions: 2005, 2008, 2008 R2, 2012, 2014, 2016, 2017, 2019 & 2022
 
